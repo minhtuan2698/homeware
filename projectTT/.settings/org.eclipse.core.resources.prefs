@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/error.jsp=UTF-8
+encoding//WebContent/product.jsp=UTF-8
+encoding//src/Controller/LoginServlet.java=UTF-8
+encoding//src/Controller/PayServlet.java=UTF-8
+encoding//src/Controller/RegisterServlet.java=UTF-8
+encoding//src/ControllerAdmin/AccountServlet_Add_Del.java=UTF-8
+encoding//src/ControllerAdmin/AccountServlet_Update.java=UTF-8
+encoding//src/ControllerAdmin/InvoiceDetailServlet_Update_Del.java=UTF-8
+encoding//src/ControllerAdmin/InvoiceServlet_Update_Del.java=UTF-8

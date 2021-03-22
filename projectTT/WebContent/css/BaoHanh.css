@@ -1,0 +1,53 @@
+@charset "UTF-8";
+#page-content{
+    background: white;
+}
+
+.top-content{
+    padding: 10px;
+}
+
+.top-content a{
+    text-decoration: none;
+    color: black;
+}
+
+.top-content a:hover{
+    color: lightblue;
+}
+
+.center-content{
+    padding: 10px;
+}
+
+.center-content h3{
+    text-align: center;
+    color: #da2128;
+}
+
+.check-bh input{
+    border-radius: 5px;
+    width: 40%;
+    border: 1px solid lightgray;
+    padding: 5px;
+}
+
+.check-bh button{
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 5px 10px;
+    background: lightblue;
+    color: #0d7182;
+}
+
+.bottom-content{
+    background: white; 
+    padding: 10px;
+}
+
+.bottom-content ul li{
+    margin-top: 5px;
+}
+.Bh .mainmenu{
+	display:none;
+}
